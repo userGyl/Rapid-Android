@@ -2,7 +2,7 @@
   
 andorid-个人快速开发框架
 
-项目主要结构流程 https://www.processon.com/view/5e49f658e4b01f766b46e96e
+项目主要结构流程 https://www.processon.com/view/5e49f658e4b01f766b46e96e <br>
 一级页面 ottom-navigation-bar + Fragment
 网络请求：retrofit2 + rxjava1.1.2 + rxandroid1.1.0 + Gson
 图片加载 glide
