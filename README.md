@@ -11,8 +11,10 @@ LogCat封装工具，三种类型，方便线上排查 <br>
 gradle productFlavors配置方便区分环境 <br>
 BaseRecyclerViewAdapterHelper + swipeToLoadLayout <br>
 
-###注意点  
-  
+###配置相关
+gradle version : 3.2.1
+
+###注意点
 BaseResponse 中声明数据接口success状态 <br>
 FOREGROUND_SERVICE 需要单独声明 <br>
 okhttp相关配置为no cache，Proxy.NO_PROXY <br>
