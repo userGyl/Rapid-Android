@@ -2,7 +2,6 @@ package com.rapid.gyl.app;
 
 import android.app.Application;
 import android.content.Context;
-
 import androidx.multidex.MultiDex;
 
 /**

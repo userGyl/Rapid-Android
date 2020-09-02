@@ -13,9 +13,11 @@ BaseRecyclerViewAdapterHelper + swipeToLoadLayout <br>
 
 ###配置相关
 gradle version : 3.2.1
+request公共参数拦截器配置 httpmanager
+
 
 ###注意点
-BaseResponse 中声明数据接口success状态 <br>
+BaseResponse中配置数据结构---务必请先核对接口结构
 FOREGROUND_SERVICE 需要单独声明 <br>
 okhttp相关配置为no cache，Proxy.NO_PROXY <br>
 httpSubscriber 中处理onError code <br>
