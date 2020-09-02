@@ -12,5 +12,6 @@ public class MainActivity extends BaseAct {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //
     }
 }
